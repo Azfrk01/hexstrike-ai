@@ -1,0 +1,10 @@
+{
+  "appName": "Global Bank Demo",
+  "baseUrl": "https://www.google.com",
+  "selectors": {
+    "home": {
+      "searchBox": "textarea[name='q']",
+      "searchBtn": "input[name='btnK']"
+    }
+  }
+}
